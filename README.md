@@ -17,7 +17,7 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,html,javascript,jQuery,Bootstrap,nodejs,express" />
 </p>
 
 ### Database
@@ -27,7 +27,7 @@
 
 ### Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,redis,git,firebase" />
+<img src="https://skillicons.dev/icons?i=aws,Cpanel,Plesk,git,firebase,Jira,Windows,Linux" />
 </p>
 
 ---
