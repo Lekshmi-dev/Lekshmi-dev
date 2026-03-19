@@ -1,6 +1,10 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Lekshmi Priya</h1>
-<h3 align="center">Backend Developer | Laravel | Node.js | AWS | Exploring AI 🚀</h3>
+<h1 align="center">Hey 👋, I'm Lekshmi Priya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;Former+Team+Lead;Backend+Developer;Always+Learning+New+Things&center=true" />
+</p>
+🚀 Passionate about building scalable web applications
+<h3 align="center">PHP | Codeigniter | Laravel | Node.js | AWS | Exploring AI 🚀</h3>
 
 ---
 
@@ -17,7 +21,7 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,html,javascript,jQuery,Bootstrap,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,html,javascript,jquery,bootstrap,nodejs,express" />
 </p>
 
 ### Database
@@ -26,8 +30,8 @@
 </p>
 
 ### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,Cpanel,Plesk,git,firebase,Jira,Windows,Linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,firebase,windows,linux" />
 </p>
 
 ---
